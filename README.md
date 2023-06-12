@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm Guilherme! 
+I am a full-time Software Engineer 👨‍💻 and a content creator (sometimes?) 
 
-<!--
-**guilhermebezerrads/guilhermebezerrads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated as a Computer Scientist and I am currently working as a Backend Java Developer. I also love Python. 
 
-Here are some ideas to get you started:
+## 🪄 My Magic 🪄 (or Tech) 
+ - Java
+ - Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
+ - HTML and CSS 
+ - C++
+ - SQL (MySQL, PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Trivia
+- I don't know magic (yet)
